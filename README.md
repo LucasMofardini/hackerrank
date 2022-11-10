@@ -8,3 +8,4 @@
     - A very big sum : solved
     - Diagonal Difference: solved
     - Staircase : solved
+    - PlusMinimus : solved
