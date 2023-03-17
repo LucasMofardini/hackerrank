@@ -9,3 +9,6 @@
     - Diagonal Difference: solved
     - Staircase : solved
     - PlusMinimus : solved
+    - MiniMaxSum : solved
+    - Grading : solved
+    - Apple And Orange : solved
