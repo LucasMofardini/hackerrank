@@ -12,4 +12,5 @@
     - PlusMinimus : solved
     - MiniMaxSum : solved
     - Grading : solved
-    - Apple And Orange : solved
+    - Apple and Orange : solved
+    - Breaking Records : solved
