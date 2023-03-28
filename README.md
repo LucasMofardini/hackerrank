@@ -16,3 +16,4 @@
     - Breaking Records : solved
     - Bon Appetit : solved
     - CatAndMouse : solved
+    - Divisible Sum Pairs : solved
